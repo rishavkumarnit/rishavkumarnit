@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/rishavkumarnit">rishavkumarnit</a> </p>
 
-- 🔭 I’m currently working on [Sales CRM Dashboard & Lead Management System](https://management-frontend-nine.vercel.app/)
+- 🔭 I’m currently working on [ViBe](https://github.com/vicharanashala/vibe)
 
 - 🌱 I’m currently learning **React, Typescript**
-
-- 👯 I’m looking to collaborate on [ViBe](https://github.com/vicharanashala/vibe)
 
 - 👨‍💻 All of my projects are available at [https://next-portfolio-red-eight.vercel.app/](https://next-portfolio-red-eight.vercel.app/)
 
