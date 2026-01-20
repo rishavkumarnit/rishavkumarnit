@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://next-portfolio-red-eight.vercel.app/](https://next-portfolio-red-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://rishav-kumar-portfolio-chi.vercel.app/)
 
 - 💬 Ask me about **Java, SpringBoot, React, Tailwind**
 
 - 📫 How to reach me **rishavkumar.nit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L4SDSrUXaLSt_V2OaJ54moWqHsu4vcPs/view?usp=sharing](https://drive.google.com/file/d/1L4SDSrUXaLSt_V2OaJ54moWqHsu4vcPs/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1m7FUm35BgzMoTkdw7lR9sH1g7tG69e5T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
