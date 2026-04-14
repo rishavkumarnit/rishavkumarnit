@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/rishavkumarnit">rishavkumarnit</a> </p>
 
-- 🔭 I’m currently working on [ViBe](https://github.com/vicharanashala/vibe)
+- 🔭 I’m currently working on [Ajrasakha](https://github.com/vicharanashala/ajrasakha)
 
 - 🌱 I’m currently learning **React, Typescript**
 
