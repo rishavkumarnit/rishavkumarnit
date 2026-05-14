@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishavkumar.nit@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1m7FUm35BgzMoTkdw7lR9sH1g7tG69e5T/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/154ZE4snQDuh0bKjgedsu0NFgL3F_0KuO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
